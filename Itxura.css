@@ -1,0 +1,51 @@
+/* Body etiketari estiloa ematen diogu */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    line-height: 1.6;
+    margin: 40px;
+}
+
+/* Goiburuen estiloa */
+h1 {
+    color: #007bff;
+    text-align: center;
+}
+
+h2 {
+    color: #555;
+    border-bottom: 2px solid #ccc;
+    padding-bottom: 5px;
+}
+
+/* Paragrafoen estiloa */
+p {
+    font-size: 18px;
+}
+
+/* Zerrendako elementuen estiloa */
+ul {
+    background-color: #e2e2e2;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+/* Esteken estiloa */
+a {
+    color: #007bff;
+    text-decoration: none; /* Estekaren azpiko marra kentzen du */
+}
+
+a:hover {
+    text-decoration: underline; /* Sagua gainean jartzean azpiko marra agertzen da */
+}
+
+/* Irudiaren estiloa */
+img {
+    display: block;
+    margin: 20px auto;
+    border-radius: 50%; /* Irudia borobila bihurtzen du */
+    border: 5px solid #ff00a2;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}

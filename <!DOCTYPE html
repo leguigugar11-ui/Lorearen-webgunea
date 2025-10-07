@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="eu">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nire Lehen Web Orria</title>
+    <link rel="stylesheet" href="styles.css 2.css"> </head>
+<body>
+
+    <h1>Kaixo! Ongi etorri nire webgunera</h1>
+
+    <p>Hau da HTML erabiliz sortutako nire lehen web orria. Markatzeko lengoaia bat da, edukiak egituratzen laguntzen diguna.</p>
+
+    <h2>Gustuko ditudan gauzak</h2>
+    <ul>
+        <li>Musika entzutea</li>
+        <li>Naturaz gozatzea</li>
+        <li>Lagunekin eta familiarekin egotea</li>
+    </ul>
+
+    <a href="https://www.google.com" target="_blank">Bisitatu Google</a>
+
+    <h2>Irudi bat</h2>
+    <img src="https://via.placeholder.com/150" alt="Adibideko irudi bat">
+ <button class="irudia-botoia"></button>
+</body>
+</html>
